@@ -1,3 +1,2 @@
 # Odin-Project-Recipe
-Github Repo
-Hello Odin!
+Assignment 1 for the Odin-Project web development course. First time using git.
